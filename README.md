@@ -1,6 +1,6 @@
 <!-- Header with logo -->
 <p align="center">
-  <img src="https://wolfelabs.tech/logo.png" width="120" alt="Wolfe Labs logo"/>
+  <img src="https://wolfelabs.tech/assets/img/logo.svg" width="120" alt="Wolfe Labs logo"/>
 </p>
 
 <h1 align="center">👋 Welcome to Wolfe Labs</h1>
