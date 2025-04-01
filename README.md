@@ -35,8 +35,6 @@ At Wolfe Labs, we specialize in crafting cutting-edge digital solutions in the r
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [AvioLabs](https://avio.labs) | Blockchain product incubator powered by WolfeLabs | Solidity, Next.js |
-| TalkNow | Tokenized chat application | React, Web3, Socket.IO |
 | Fuel WMS | Smart warehouse management system | Vue, Python, MongoDB |
 
 ---
@@ -44,7 +42,7 @@ At Wolfe Labs, we specialize in crafting cutting-edge digital solutions in the r
 ### 💼 Work With Us
 
 📬 Want to build something together?  
-Let’s talk: [hello@wolfelabs.tech](mailto:hello@wolfelabs.tech)  
+Let’s talk: [hello@wolfelabs.tech](mailto:hello@agencywolfe.com)  
 Or visit [https://wolfelabs.tech](https://wolfelabs.tech)
 
 ---
